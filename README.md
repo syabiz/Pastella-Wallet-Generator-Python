@@ -170,3 +170,18 @@ This software is provided **as-is** for educational and personal use. The author
 
 - Built by **syabiz**
 - Pastella network: [pastella.org](https://pastella.org/)
+
+  ## ☕ Support
+
+If this tool has been helpful to you, perhaps there's a reward of a cup of coffee and a pack of cigarettes for me? 😄
+
+| Network | Address |
+|---|---|
+| 🪙 Pastella (PAS) | `PAS1Dj6xgtVS56REDFbheSJe76ac44fq1dY4obnUgzSj2JGkVPGUDB` |
+| ₿ Bitcoin (BTC) | `bc1qn6t8hy8memjfzp4y3sh6fvadjdtqj64vfvlx58` |
+| ⟠ Ethereum (ETH) | `0x512936ca43829C8f71017aE47460820Fe703CAea` |
+| ◎ Solana (SOL) | `6ZZrRmeGWMZSmBnQFWXG2UJauqbEgZnwb4Ly9vLYr7mi` |
+
+Every bit of support is deeply appreciated! 🙏
+
+---
