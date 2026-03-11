@@ -185,3 +185,7 @@ If this tool has been helpful to you, perhaps there's a reward of a cup of coffe
 Every bit of support is deeply appreciated! 🙏
 
 ---
+
+## 📄 License
+
+This project is open source. See the repository for license details.
